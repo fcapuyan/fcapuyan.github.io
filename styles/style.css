@@ -1,0 +1,46 @@
+/* PERSONAL SITE THEME */
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f6f7fb;
+  color: #1b1b1b;
+  line-height: 1.6;
+}
+
+header, main, footer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+header {
+  background: #e9ecff;
+  border-bottom: 3px solid #b8c0ff;
+}
+
+h1 {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  margin: 0;
+}
+
+h2 {
+  margin-top: 8px;
+}
+
+main {
+  background: #ffffff;
+  margin-top: 16px;
+  border: 1px solid #ddd;
+}
+
+a {
+  color: #2a5bd7;
+}
+
+footer {
+  margin-top: 16px;
+  font-size: 0.95rem;
+  background: #f0f0f0;
+  border-top: 2px solid #ddd;
+}
